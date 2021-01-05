@@ -5,6 +5,7 @@ highlighter:      pygments
 # Permalinks
 permalink:        /about/
 
+
 # Setup
 title:            Mingdyuo Blog
 tagline:          'A Jekyll theme'
